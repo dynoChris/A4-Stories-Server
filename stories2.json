@@ -1,6 +1,16 @@
 {
 	"stories": [
 		{
+			"image": "https://i.imgur.com/HO83GX4h.mp4",
+			"takenAt": 1617902199000,
+			"video": "https://i.imgur.com/HO83GX4.mp4"
+		},
+		{
+			"image": "https://i.imgur.com/TOqYrIzh.mp4",
+			"takenAt": 1617902039000,
+			"video": "https://i.imgur.com/TOqYrIz.mp4"
+		},
+		{
 			"image": "https://i.imgur.com/Hz7efkfh.mp4",
 			"takenAt": 1617741130000,
 			"video": "https://i.imgur.com/Hz7efkf.mp4"
